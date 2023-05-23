@@ -33,8 +33,6 @@ The following methodology will be followed to achieve the customer segmentation 
 3. **Customer Segmentation**: Clustering algorithms, such as K-means or hierarchical clustering, are applied to segment customers based on their RFM scores.
 
 4. **Visualization**: Tableau is utilized to create visualizations that represent the customer segments, their characteristics, and distribution.
-https://public.tableau.com/app/profile/leticia.martinez.iruela/viz/ProjectCopy/ProfitSalesCategorySegments?publish=yes
-
 
 5. **Insights and Campaign Strategy**: Key insights are derived from the visualizations to develop targeted marketing strategies that aim to increase customer recurrence and cart value.
 
@@ -44,7 +42,7 @@ https://public.tableau.com/app/profile/leticia.martinez.iruela/viz/ProjectCopy/P
 To get started with the Customer Segmentation for SuperStore project, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies as specified in the `requirements.txt` file.
+2. Install the necessary dependencies.
 3. Set up the SQL environment and ensure connectivity to the SuperStore database.
 4. Run the SQL queries to retrieve the required customer data.
 5. Utilize Python to calculate the RFM scores and perform customer segmentation.
@@ -73,5 +71,8 @@ The Customer Segmentation for SuperStore project leverages RFM analysis and clus
 7.Offer a 20% discount on the 3rd purchase for potential loyalists to increase their Monetary Score.
 
 8.Analyze metrics regularly for insights to optimize campaign strategies.
+
+Hereby you can see the full visualizations insigths in Tableau: 
+https://public.tableau.com/app/profile/leticia.martinez.iruela/viz/ProjectFINAL_16848222427830/STORY_ANALYSIS?publish=yes
 
 For a detailed explanation of the project's methodologies, analysis steps, and results, please refer to the documentation and files provided in the repository.
