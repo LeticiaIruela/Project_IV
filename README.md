@@ -1,4 +1,5 @@
-# Project IV CUSTOMER BEHAVIOUR ANALYSIS & MARKETING CAMPAIGN
+# Project IV 
+# CUSTOMER BEHAVIOUR ANALYSIS & MARKETING CAMPAIGN
 
 ![seg](fig/seg.png)
 
@@ -57,13 +58,20 @@ The SuperStore dataset used for this project should be accessible via the SQL en
 ## Conclusion
 The Customer Segmentation for SuperStore project leverages RFM analysis and clustering techniques to identify distinct customer segments. By understanding customer behavior and preferences, targeted marketing strategies can be developed to increase customer recurrence and cart value. The combination of SQL, Python, and Tableau provides a comprehensive approach to extract insights, visualize results, and execute an effective marketing campaign. Some key concluions and key points are:
 
--Effective discount promotions have increased sales, but careful control and targeting are necessary to minimize losses.
--The Copiers, Accessories, and Phones subcategories in Technology are the most profitable.
--Customer loyalty has not significantly improved over the years.
--Target the New Customers, Promising, and Potential Loyalty segments in the campaign.
--Offer a 20% discount on the total basket for new customers to increase frequency and profit.
--Provide a 20% discount on the 4th purchase for promising customers to boost their Monetary Score.
--Offer a 20% discount on the 3rd purchase for potential loyalists to increase their Monetary Score.
--Analyze metrics regularly for insights to optimize campaign strategies.
+1.Effective discount promotions have increased sales, but careful control and targeting are necessary to minimize losses.
+
+2.The Copiers, Accessories, and Phones subcategories in Technology are the most profitable.
+
+3.Customer loyalty has not significantly improved over the years.
+
+4.Target the New Customers, Promising, and Potential Loyalty segments in the campaign.
+
+5.Offer a 20% discount on the total basket for new customers to increase frequency and profit.
+
+6.Provide a 20% discount on the 4th purchase for promising customers to boost their Monetary Score.
+
+7.Offer a 20% discount on the 3rd purchase for potential loyalists to increase their Monetary Score.
+
+8.Analyze metrics regularly for insights to optimize campaign strategies.
 
 For a detailed explanation of the project's methodologies, analysis steps, and results, please refer to the documentation and files provided in the repository.
