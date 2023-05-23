@@ -10,10 +10,10 @@ The Customer Segmentation for SuperStore project aims to analyze customer data t
 
 In this project, we have obtained the RFM (Recency, Frequency, Monetary) scores from the provided data. RFM analysis is a powerful technique used to segment customers based on their purchase behavior and value. By leveraging RFM scores, we can identify different customer segments with varying levels of engagement and prioritize marketing efforts accordingly.
 
-## Strategy
+## Strategy & Metholody
 The strategy employed in this project involves the following steps:
 
-1. **Data Retrieval**: Utilizing SQL, customer data is extracted from the SuperStore database. This data includes information such as purchase history, customer demographics, and order details.
+1. **Data Retrieval**: Utilizing Python, customer data is extracted from the SuperStore database. This data includes information such as purchase history, customer demographics, and order details.
 
 2. **RFM Analysis**: Using Python, RFM scores are calculated for each customer based on the recency of their last purchase, the frequency of their purchases, and the monetary value of their transactions. These scores provide a quantitative measure of customer engagement and value.
 
@@ -23,38 +23,21 @@ The strategy employed in this project involves the following steps:
 
 5. **Campaign Development**: Based on the insights gained from the segmentation analysis, a targeted marketing campaign is designed to increase customer recurrence and cart value. This may involve personalized recommendations, exclusive offers, or tailored messaging for each customer segment.
 
-## Methodology
-The following methodology will be followed to achieve the customer segmentation and campaign development:
-
-1. **Data Extraction**: SQL queries are used to retrieve relevant customer data from the SuperStore database.
-
-2. **RFM Calculation**: Using Python, the RFM scores are calculated by analyzing customer purchase history and transaction data.
-
-3. **Customer Segmentation**: Clustering algorithms, such as K-means or hierarchical clustering, are applied to segment customers based on their RFM scores.
-
-4. **Visualization**: Tableau is utilized to create visualizations that represent the customer segments, their characteristics, and distribution.
-
-5. **Insights and Campaign Strategy**: Key insights are derived from the visualizations to develop targeted marketing strategies that aim to increase customer recurrence and cart value.
-
-6. **Campaign Execution**: The designed marketing campaign is executed using appropriate channels and personalized approaches for each customer segment.
-
 ## Getting Started
 To get started with the Customer Segmentation for SuperStore project, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies.
-3. Set up the SQL environment and ensure connectivity to the SuperStore database.
+2. Download data set from Kaggle and ensure connectivity 
+3. Utilize Python to calculate the RFM scores and perform customer segmentation.
 4. Run the SQL queries to retrieve the required customer data.
-5. Utilize Python to calculate the RFM scores and perform customer segmentation.
-6. Use Tableau to visualize the segmented customer groups and derive insights.
-7. Based on the insights, develop and execute a targeted marketing campaign to increase customer recurrence and cart value.
+5. Use Tableau to visualize the segmented customer groups and derive insights.
+76. Based on the insights, place the conclusions
 
 ## Dataset
-The SuperStore dataset used for this project should be accessible via the SQL environment. Make sure the necessary tables and data are available for the analysis. The dataset should include customer information, purchase history, order details, and transaction data.
-
+The SuperStore dataset used for this project should be accessible via the Kaggle: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 ## Conclusion
-The Customer Segmentation for SuperStore project leverages RFM analysis and clustering techniques to identify distinct customer segments. By understanding customer behavior and preferences, targeted marketing strategies can be developed to increase customer recurrence and cart value. The combination of SQL, Python, and Tableau provides a comprehensive approach to extract insights, visualize results, and execute an effective marketing campaign. Some key concluions and key points are:
+The Customer Segmentation for SuperStore project leverages RFM analysis and clustering techniques to identify distinct customer segments. By understanding customer behavior and preferences, targeted marketing strategies can be developed to increase customer recurrence and cart value. The combination of SQL, Python, and Tableau provides a comprehensive approach to extract insights, visualize results, and execute an effective marketing campaign. Some key conclusions and key points are:
 
 1.Effective discount promotions have increased sales, but careful control and targeting are necessary to minimize losses.
 
