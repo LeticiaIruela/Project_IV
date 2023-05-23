@@ -10,7 +10,7 @@ The Customer Segmentation for SuperStore project aims to analyze customer data t
 
 In this project, we have obtained the RFM (Recency, Frequency, Monetary) scores from the provided data. RFM analysis is a powerful technique used to segment customers based on their purchase behavior and value. By leveraging RFM scores, we can identify different customer segments with varying levels of engagement and prioritize marketing efforts accordingly.
 
-## Strategy & Metholody
+## Strategy & Methodology
 The strategy employed in this project involves the following steps:
 
 1. **Data Retrieval**: Utilizing Python, customer data is extracted from the SuperStore database. This data includes information such as purchase history, customer demographics, and order details.
